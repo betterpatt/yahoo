@@ -1,5 +1,5 @@
 # yahoo
-<b> Home  
+<b> Home /b  
 
 ประวัติของเรา  
 
